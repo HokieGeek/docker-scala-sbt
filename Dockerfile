@@ -1,4 +1,4 @@
-FROM hokiegeek/scala:latest
+FROM hokiegeek/scala:2.11.8
 
 WORKDIR /tmp
 
